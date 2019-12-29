@@ -1,1 +1,3 @@
 rootProject.name = 'foodselector'
+
+include 'foodselector-api'
