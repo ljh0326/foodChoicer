@@ -1,10 +1,10 @@
 package com.lee.foodselector;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FoodselectorApplicationTests {
+class FoodSelectorApplicationTests {
 
   @Test
   void contextLoads() {
