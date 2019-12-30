@@ -23,7 +23,7 @@ public class WelcomeController {
   public ResponseEntity<String> index()  {
     try{
 
-      return new ResponseEntity<>("안녕하세요~~!",HttpStatus.OK);
+      return new ResponseEntity<>("안녕하세요~~ 반갑습니다.",HttpStatus.OK);
     }catch (Exception e){
       e.printStackTrace();
       return new ResponseEntity<>(null, HttpStatus.BAD_REQUEST);
