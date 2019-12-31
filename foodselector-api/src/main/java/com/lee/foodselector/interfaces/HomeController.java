@@ -23,6 +23,7 @@ public class HomeController {
 
     @GetMapping("/index")
     public void index()  {
+        String test = "";
     }
 
 }
