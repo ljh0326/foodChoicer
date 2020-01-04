@@ -10,6 +10,6 @@ public class WelcomeController {
 
   @GetMapping("/")
   public  String hello(){
-    return "Hello, 자동배포";
+    return "Hello, 자동배포2";
   }
 }
